@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8EA8-4AAE
+
+ Directory of C:\Users\sachi\OneDrive\Desktop\myGitProject
+
+28-09-2021  05:35    <DIR>          .
+28-09-2021  05:35    <DIR>          ..
+28-09-2021  05:35                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  252,686,155,776 bytes free
